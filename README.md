@@ -4,8 +4,8 @@ The app demonstrates the implementation of user authentication and account manag
 
 # Screenshots
 <p>
-<img src="https://user-images.githubusercontent.com/140700822/262973316-46736aeb-fe6d-48fc-bb6a-6a6a665a9849.jpg" alt="Register Screen" width = "250" >
-<img src="https://user-images.githubusercontent.com/140700822/262973296-26dd986d-c02a-49c6-84e9-9c20087d8419.jpg" alt="Login Screen" width = "250" >
+<img src="https://user-images.githubusercontent.com/140700822/262973316-46736aeb-fe6d-48fc-bb6a-6a6a665a9849.jpg" alt="Register Screen" width = "250" >&nbsp &nbsp &nbsp
+<img src="https://user-images.githubusercontent.com/140700822/262973296-26dd986d-c02a-49c6-84e9-9c20087d8419.jpg" alt="Login Screen" width = "250" >&nbsp &nbsp &nbsp
 <img src="https://user-images.githubusercontent.com/140700822/262973274-d1f9f947-0a85-4e0c-93d4-b9fd9c24ea88.jpg" alt="Home Screen" width = "250" >
 </p>
 # Features
