@@ -40,8 +40,7 @@ please open an issue or submit a pull request. Please discuss significant change
 
 This repository and its contents are open-source and available for public use under the terms of the AndroidRider License.
 
-License
-AndroidRider License
+AndroidRider
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, modify, and distribute the Software in source and compiled forms, subject to the following conditions:
 
@@ -51,6 +50,7 @@ Redistribution and use of the Software, with or without modification, are permit
 
 Redistributions of source code must retain the above license notice, this list of conditions, and the following disclaimer.
 Redistributions in compiled form must reproduce the above license notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Acknowledgements
