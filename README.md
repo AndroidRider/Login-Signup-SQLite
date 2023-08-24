@@ -4,9 +4,9 @@ This repository contains a simple login and signup app that utilizes SQLite as i
 The app demonstrates the implementation of user authentication and account management features through a clean and user-friendly interface.
 
 # Screenshots
-![Register](https://github.com/AndroidRider/Login-Signup-Firebase/assets/140700822/27357a41-dfee-444d-915d-d65882a114ac)
-![Login](https://github.com/AndroidRider/Login-Signup-Firebase/assets/140700822/5c4d04e1-489f-48aa-8003-16c0794102ae)
-![Home](https://github.com/AndroidRider/Login-Signup-Firebase/assets/140700822/490c5d92-8b6a-446a-bedf-f463f297dc35)
+![Register](https://github.com/AndroidRider/Login-Signup-SQLite/assets/140700822/46736aeb-fe6d-48fc-bb6a-6a6a665a9849)
+![Login](https://github.com/AndroidRider/Login-Signup-SQLite/assets/140700822/26dd986d-c02a-49c6-84e9-9c20087d8419)
+![Home](https://github.com/AndroidRider/Login-Signup-SQLite/assets/140700822/d1f9f947-0a85-4e0c-93d4-b9fd9c24ea88)
 
 # Features
 * User registration with username and password
@@ -36,13 +36,27 @@ buildFeatures {
 We welcome contributions to enhance the app! If you identify any issues, want to add features, or improve existing functionality, 
 please open an issue or submit a pull request. Please discuss significant changes in an issue before proceeding.
 
-
 ## License
 
-    Copyright (c) 2023 Android Rider
-    
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This repository and its contents are open-source and available for public use under the terms of the AndroidRider License.
+
+License
+AndroidRider License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, modify, and distribute the Software in source and compiled forms, subject to the following conditions:
+
+The above license notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+Redistribution and use of the Software, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above license notice, this list of conditions, and the following disclaimer.
+Redistributions in compiled form must reproduce the above license notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# Acknowledgements
+This project may utilize third-party libraries, frameworks, and tools that are subject to their own respective licenses. The original license terms and copyright notices of these components can be found in the corresponding source files or documentation.
+
+# Contact
+For any questions or inquiries about this license or the repository, please contact us at [mdarfealam15@gmail.com].
+
+
